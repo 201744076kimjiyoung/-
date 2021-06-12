@@ -31,19 +31,27 @@ made by 박중원 :
 사람의 신체 기관에 비유해 간단히 설명하고,<br>
 이미지에 링크를 걸어 컴퓨터 부품에 대한 설명을 해주는 페이지 입니다.<br>
 
+
 둘째는 벤치마크 그래프 입니다.<br>
 이 페이지에선 부품의 성능수치를 그래프로 시각화 했습니다.<br>
 또한, 마우스를 드래그하여 그래프 위에 두면, 그에 대한 수치가 표시됩니다.<br>
+<img src="https://user-images.githubusercontent.com/71188378/121769582-528ad180-cb9f-11eb-8acd-855b9b5ff9df.png" width=500 height=300>
+
 
 셋째는 프로그램별사양 기능 입니다.<br>
 프로그램별로 사양을 추천해 주는 기능입니다.<br>
 다중 선택을 지원하며, 다중 선택시 가장 높은 사양이 필요한 프로그램을 기준으로<br> 
 부품을 추천합니다.<br>
+<img src="https://user-images.githubusercontent.com/71188378/121769601-70583680-cb9f-11eb-9e94-57f3a19361a1.png" width=500 height=300>
+
+
 
 넷째는 검색기능입니다.<br>
 검색기능은 중앙부에 있는 검색바에 원하는 키워드를 입력할시 <br>
 웹크롤링을 이용한 검색기능이 작동하여 다나와 사이트로 연결되어<br> 
 사용자가 입력했던 키워드로 다나와에 검색합니다.<br>
+
+<img src="https://user-images.githubusercontent.com/71188378/121769582-528ad180-cb9f-11eb-8acd-855b9b5ff9df.png" width=500 height=300>
 
 
 
