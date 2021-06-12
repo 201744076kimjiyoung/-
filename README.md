@@ -24,9 +24,8 @@ Title: 컴성비프로젝트<br>
 첫째는 컴퓨터 부품에 대해 잘모르는 사용자들을 겨냥한 <br>
 부품설명 페이지 입니다.<br>
 made by 박중원 :
-![그림01](https://user-images.githubusercontent.com/71188378/121768869-895ee880-cb9b-11eb-986b-bbd5200c7448.gif)
 
-<img src="https://user-images.githubusercontent.com/71188378/121768869-895ee880-cb9b-11eb-986b-bbd5200c7448.gif" width=300 height=300>
+<img src="https://user-images.githubusercontent.com/71188378/121768869-895ee880-cb9b-11eb-986b-bbd5200c7448.gif" width=500 height=300>
 
 이 페이지는 컴퓨터의 각 부품을 <br>
 사람의 신체 기관에 비유해 간단히 설명하고,<br>
