@@ -6,10 +6,10 @@ Title: 컴성비프로젝트<br>
 컴퓨터  부품정보  사이트  입니다.<br>
 
 사용환경 <br>
-1.HTML
-2.JavaScript
-3.spring
-4.css
-5.msyql
+1.HTML <bt>
+2.JavaScript <br>
+3.spring<br>
+4.css<br>
+5.msyql<br>
 
 
