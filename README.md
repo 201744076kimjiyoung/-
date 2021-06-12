@@ -51,8 +51,7 @@ made by 박중원 :
 웹크롤링을 이용한 검색기능이 작동하여 다나와 사이트로 연결되어<br> 
 사용자가 입력했던 키워드로 다나와에 검색합니다.<br>
 
-<img src="https://user-images.githubusercontent.com/71188378/121769582-528ad180-cb9f-11eb-8acd-855b9b5ff9df.png" width=500 height=300>
-
+<img src="https://user-images.githubusercontent.com/71188378/121769764-6c78e400-cba0-11eb-9943-59d1752d8528.png" width=500 height=300>
 
 
 
